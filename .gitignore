@@ -1,0 +1,5 @@
+*cmake-build-debug/
+/.idea/
+*cmake-build-debug/
+/Chapter 10/cmake-build-debug/
+.DS_Store

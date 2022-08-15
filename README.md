@@ -1,5 +1,6 @@
 # C++ Standard Template Library in Practice [Video]
 This is the code repository for [C++ Standard Template Library in Practice [Video]](https://github.com/PacktPublishing/C-Standard-Template-Library-in-Practice), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+C++ Standard Template Library in Practice 
 ## About the Video Course
 C++ is one of the most widely used programming languages. Fast, efficient, and flexible, it is used to solve many problems. In particular, it is the Standard Template Library (STL) that gives C++ its power. In this course, we show you how.
 Using real-world examples, we focus on how STL handles and manipulates data. We examine containers and iterators, and how data can be transformed into meaningful information using algorithms. There is coverage of I/O streams, strings and numerical methods, and how performance can be optimized through careful consideration of memory allocation and manipulation. We also demonstrate how multitasking and shared data is handled through concurrency and parallelism classes and utilities.
